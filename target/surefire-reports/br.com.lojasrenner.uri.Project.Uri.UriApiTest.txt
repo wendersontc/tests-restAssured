@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: br.com.lojasrenner.uri.Project.Uri.UriApiTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.565 s <<< FAILURE! - in br.com.lojasrenner.uri.Project.Uri.UriApiTest
+todosFilmesVerificaCabecalhosResposta(br.com.lojasrenner.uri.Project.Uri.UriApiTest)  Time elapsed: 1.54 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected content-type "JSON" doesn't match actual content-type "application/octet-stream".
+
+	at br.com.lojasrenner.uri.Project.Uri.UriApiTest.todosFilmesVerificaCabecalhosResposta(UriApiTest.java:23)
+
